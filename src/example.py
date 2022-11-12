@@ -11,7 +11,7 @@ from CalTransmission import CalTransmission
 from removeHaze import removeHaze
 
 if __name__ == '__main__':
-    HazeImg = cv2.imread('../Images/foggy_bench.jpg')
+    HazeImg = cv2.imread('../Images/56-inputs.png')
 
     # Resize image
     '''
